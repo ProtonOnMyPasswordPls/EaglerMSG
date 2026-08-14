@@ -83,3 +83,6 @@ Java players are not included in the completion list.
 EaglerMsg requires EaglerXServer and its server API.
 
 The plugin is designed around the EaglerXServer API and its notification system rather than a specific Minecraft server implementation.
+
+
+Note based on how this does i may add a logging system, this would be console side only and only seeable via a file for staff eyes only
