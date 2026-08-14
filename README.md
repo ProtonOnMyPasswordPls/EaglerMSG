@@ -8,24 +8,21 @@ Java players cannot receive EaglerMsg notifications.
 
 ## Commands
 
-    /msg <player> <message>
+    /emsg <player> <message>
 
-Aliases:
 
-    /tell
-    /w
 
 Example:
 
-    /msg CrazlyMixed hey what's up?
+    /emsg CrazlyMixed hey what's up?
 
 Reply to the last person you messaged:
 
-    /reply <message>
+    /ereply <message>
 
 Alias:
 
-    /r
+    /er ( may not work on some setups)
 
 ## Permissions
 
@@ -72,7 +69,7 @@ This is because the notification API being used here is part of the Eaglercraft 
 
 ## Tab Completion
 
-/msg has player tab completion.
+/emsg has player tab completion.
 
 Only online Eagler players are shown.
 
