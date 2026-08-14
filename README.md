@@ -57,7 +57,6 @@ Example:
         hide-after: 10
         expire-after: 30
 
-Changes can be loaded with the normal Bukkit plugin reload command or a future dedicated reload command.
 
 ## Eagler Only
 
